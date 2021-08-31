@@ -30,7 +30,7 @@ export default function Header() {
           </a>
           <NavLink
             to={{
-              pathname: "#header",
+              pathname: "https://github.com/PharadolBrown/portfolio_react",
             }}
             target="_blank"
             className="flex rounded-md px-4 ml-5 lg:ml-10 py-1 border-2 border-purple-500 border-opacity-60 items-center justify-center text-sm md:text-2xl mt-3 md:mt-7 lg:mt-10 bg-purple-600 bg-opacity-60 hover:bg-purple-800 hover:border-white hover:border-opacity-10 hover:bg-opacity-60 hover:-translate-y-3 transition duration-300"

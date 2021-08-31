@@ -20,7 +20,7 @@ export default function CardAchievement(props) {
           />
         </div>
         <div className="p-3">
-          <h3 className="text-xl">{InfoEachCard.title}</h3>
+          <h3 className="text-xl mb-1">{InfoEachCard.title}</h3>
           <p className="text-sm pb-5">{InfoEachCard.description}</p>
           <div className="flex font-bold text-white ">
             <NavLink
