@@ -1,0 +1,13 @@
+- how to use style component in react
+npm install styled-components
+import styled from 'styled-components';
+const BoxStyle = styled.div`
+  background-color: gray;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+`;
+<BoxStyle><BoxStyle/>
+
+
+npm install react-router-dom;
