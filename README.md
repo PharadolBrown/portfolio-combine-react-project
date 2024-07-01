@@ -4,7 +4,7 @@ A simple and effective expense tracker application built with React to manage yo
 
 ## Live Demo
 
-Check out the live demo [here](https://financial-app-log.netlify.app/ledger).
+Check out the live demo [here](https://financial-app-log.netlify.app/).
 
 ## Project Screenshot
 
