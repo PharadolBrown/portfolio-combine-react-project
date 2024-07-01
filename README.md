@@ -34,14 +34,12 @@ Check out the live demo [here](https://example.com/demo).
 
 ## Features
 
-- Add and remove income and expense entries
+- Add income and expense entries
 - View a summary of your financial status
-- Filter entries by date
-- Responsive design
+
 
 ## Usage
-
-1. To add an entry, click on the "Add Income" or "Add Expense" button.
-2. Fill in the details of the entry (amount, description, date) and click "Submit".
-3. To delete an entry, click on the "Delete" button next to the respective entry.
-4. View your total income, total expenses, and balance at the top of the application.
+1. Fill in the details of the entry:
+    - **Order:** Enter the description or name of the transaction.
+    - **Amount:** Enter a positive integer for income or a negative integer (with a minus sign) for expense.
+2. Click "Submit" to add the entry.
