@@ -43,7 +43,7 @@ function AppAlbum() {
     <div className="h-screen">
       <AppHeader />
       <AppSearch value={searchText} onValueChange={setSearchText} />
-      <section className="container w-full px-3  md:px-0 md:w-4/6 mx-auto my-3 grid grid-cols-1 md:grid-cols-2 gap-4 ">
+      <section className="container w-full px-3 md:px-0 mx-auto my-3 grid grid-cols-1 md:grid-cols-2 gap-4">
         {albumElement}
       </section>
       {imgPost}
