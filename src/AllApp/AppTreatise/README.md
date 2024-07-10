@@ -1,6 +1,6 @@
 # Treatise Blog
 
-Treatise Blog React is a simple React.js application built with TailwindCSS for styling. It fetches from a mock API (jsonplaceholder.typicode.com) to display dynamic content.
+Treatise Blog is a simple React.js application built with TailwindCSS for styling. It fetches from a mock API (jsonplaceholder.typicode.com) to display dynamic content.
 
 ## Demo
 You can see a live demo of the project [here](https://treatise-blog.vercel.app/).
