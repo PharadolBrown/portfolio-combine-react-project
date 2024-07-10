@@ -11,3 +11,7 @@ You can see a live demo of the project [here](https://natural-wonder-gallery.ver
 - Search images by title.
 - Click on an image to view it in a larger size.
 - Click outside the image to close the large view.
+
+## Tech Stack
+ - React.js
+ - Tailwind
