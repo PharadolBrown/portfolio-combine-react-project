@@ -5,7 +5,7 @@ function AppSearch(props) {
       <input
         placeholder="search here"
         type="text"
-        className="container md:w-4/6 w-full px-2 md:px-0 mx-auto border-2 h-8"
+        className="md:w-4/6 w-full !px-2 md:px-0 mx-auto border-2 h-8"
         value={value}
         onChange={(event) => {
           onValueChange(event.target.value);
