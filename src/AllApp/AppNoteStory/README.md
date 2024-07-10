@@ -11,3 +11,7 @@ You can see a live demo of the project [here](https://note-your-story.vercel.app
 - Edit existing notes.
 - Delete notes.
 - View all notes in a list format.
+
+## Tech Stack
+ - React.js
+ - Tailwind
